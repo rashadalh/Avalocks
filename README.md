@@ -8,7 +8,7 @@
 
 Unlock simplicity. Unlock security. Unlock Avalocks.
 
-## 📱 [App Demo Video - Click Here](https://link-to-demo-video)
+## 📱 [App Demo Video - Click Here](https://youtu.be/VcGZRepWvUw)
 
 ---
 

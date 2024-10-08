@@ -1,6 +1,6 @@
 # Avalocks - Simplifying Wallet Security in the Decentralized Era
 
-![Avalocks Logo](./photos/avalocksLogo.png)
+![Avalocks Logo](https://github.com/rashadalh/Avalocks/blob/main/Photos/avalocksLogo.png)
 
 ### Built on Ava Protocol's Automation Infrastructure
 
@@ -29,32 +29,32 @@
 ## 🛠️ App Flow
 
 ### **Landing Page**
-![Landing Page](./photos/Landing.PNG)
+![Landing Page](https://github.com/rashadalh/Avalocks/blob/main/Photos/Landing.PNG)
 
 Upon opening the app, the user lands on the welcome screens. These screens introduce the app with some visual flair, leading to the main login or sign-in screen. The user sees the app logo and is guided to enter the app.
 
 ### **Sign-In**
-![Sign-In](./photos/Signin.PNG)
+![Sign-In](https://github.com/rashadalh/Avalocks/blob/main/Photos/Signin.PNG)
 
 The user is prompted to either create an account or log in with their existing credentials. The login process is simple and straightforward, ensuring easy access to the app. The app includes password recovery options and account registration options.
 
 ### **Add Wallet via Coinbase**
-![Add Wallet](./photos/AddCBWallet.PNG)
+![Add Wallet](https://github.com/rashadalh/Avalocks/blob/main/Photos/AddCBWallet.PNG)
 
 After logging in, users can add their wallets for tracking and permission management. This is where they integrate their Coinbase Smart Wallet or another supported wallet on Ethereum or Layer 2 networks. Users select their wallet and add it to the tracker for further interaction.
 
 ### **Wallet Health Score**
-![Wallet Health Score](./photos/WalletHealthScore.PNG)
+![Wallet Health Score](https://github.com/rashadalh/Avalocks/blob/main/Photos/WalletHealthScore.PNG)
 
 Once the wallet is added, the app presents the Wallet Health Score. This feature evaluates the risk of permissions associated with the wallet, providing users with a clear understanding of the security risks involved. The dashboard displays various wallet statuses and suggests when permissions should be revoked.
 
 ### **Prompt Permission Revocation**
-![Prompt Revoke](./photos/PromptRevoke.PNG)
+![Prompt Revoke](https://github.com/rashadalh/Avalocks/blob/main/Photos/PromptRevoke.PNG)
 
 When the app identifies at-risk permissions, it prompts the user to revoke them. With a simple interface, the user selects which permissions to revoke and confirms the action, all while maintaining security through session key technology. The user can revoke all permissions at once or specify which ones to revoke.
 
 ### **Individual Wallet Insights**
-![Individual Wallet Insights](./photos/IndvWallet.PNG)
+![Individual Wallet Insights](https://github.com/rashadalh/Avalocks/blob/main/Photos/IndvWallet.PNG)
 
 In addition to the overall health score, users can view detailed insights for individual wallets. Each wallet's permissions are analyzed, and the user is given a breakdown of why specific permissions may be at risk. The interface allows users to see the amount at risk and why, offering transparency and control over each wallet.
 

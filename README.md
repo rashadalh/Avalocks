@@ -6,6 +6,8 @@
 
 **Avalocks** is a mobile-first wallet permission management solution designed to help users securely revoke outdated or unnecessary permissions across Ethereum and Layer 2 solutions. By leveraging the Coinbase Smart Wallet Session Key, Avalocks simplifies permission management, reduces security risks, and empowers users to take control of their wallets without dealing with complex, technical processes.
 
+## Unlock simplicity. Unlock security. Unlock Avalocks.
+
 ## 📱 [App Demo Video](https://link-to-demo-video)
 
 ---

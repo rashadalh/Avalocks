@@ -12,7 +12,7 @@ Unlock simplicity. Unlock security. Unlock Avalocks.
 
 ---
 
-## 🧩 [Figma Prototype - Click Here](https://www.figma.com/proto/dpjLbBb0KMt2oDl5Q9NFnr/Permissionless---Ava-Protocol?node-id=126-1819&node-type=frame&t=mmbC1UaMUPiuNy1S-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=133%3A258&show-proto-sidebar=2)
+## 🧩 [Figma Prototype - Click Here | pswd - permissionless](https://www.figma.com/proto/dpjLbBb0KMt2oDl5Q9NFnr/Permissionless---Ava-Protocol?node-id=126-1819&node-type=frame&t=6ynN70hvwXsYKRhH-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=133%3A258&show-proto-sidebar=1)
 
 ---
 

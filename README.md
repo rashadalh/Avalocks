@@ -8,12 +8,11 @@
 
 Unlock simplicity. Unlock security. Unlock Avalocks.
 
-## 📱 [App Demo Video](https://link-to-demo-video)
+## 📱 [App Demo Video - Click Here](https://link-to-demo-video)
 
 ---
 
-## 🧩 [Figma Prototype](https://www.figma.com/proto/dpjLbBb0KMt2oDl5Q9NFnr/Permissionless---Ava-Protocol?node-id=3-97&node-type=frame&t=oqqCJrY7HddFljsL-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A97&show-proto-sidebar=1)
-![Link](https://www.figma.com/proto/dpjLbBb0KMt2oDl5Q9NFnr/Permissionless---Ava-Protocol?node-id=3-97&node-type=frame&t=oqqCJrY7HddFljsL-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A97&show-proto-sidebar=1)
+## 🧩 [Figma Prototype - Click Here](https://www.figma.com/proto/dpjLbBb0KMt2oDl5Q9NFnr/Permissionless---Ava-Protocol?node-id=126-1819&node-type=frame&t=mmbC1UaMUPiuNy1S-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=133%3A258&show-proto-sidebar=2)
 
 ---
 
